@@ -1,6 +1,3 @@
-# rag_chatbot
-rag 챗봇입니다.
-
 # 🤖 Assistants API 챗봇
 
 OpenAI Assistants API를 활용한 PDF/DOCS 기반 챗봇입니다.

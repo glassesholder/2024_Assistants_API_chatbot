@@ -2,6 +2,8 @@
 
 OpenAI Assistants API를 활용한 PDF/DOCS 기반 챗봇입니다.
 
+![Chatbot Screenshot](images/Assistant_chatbot.png)
+
 ## 프로젝트 개요
 
 이 프로젝트는 문서(PDF/DOCS)를 기반으로 AI 어시스턴트와 대화할 수 있는 웹 애플리케이션입니다. OpenAI의 Assistants API와 Vector Store를 사용하여 문서 기반 질의응답 시스템을 구현했습니다.
